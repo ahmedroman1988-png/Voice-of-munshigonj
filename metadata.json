@@ -1,0 +1,6 @@
+{
+  "name": "UltraRecord APK & Audio Studio",
+  "description": "UltraRecord HD Audio Recorder with background recording, waveform visualizer, and ready-to-build Android APK package generator.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
